@@ -4,17 +4,17 @@ Welcome to my GitHub! I’m a **technology leader, full-stack developer, AI engi
 
 ---
 
-## 🔹 Who I Am  
+##  Who I Am  
 
-- 🎓 Master’s graduate specializing in **design, development, and technology management**  
-- 🌍 Founder of **[CTC EdTech](https://www.ctcedtech.com)** – helping universities modernize with AI-driven consulting & solutions  
-- 🔐 Creator of **document security applications** with encryption, watermarking, and tamper detection  
-- 🚀 Skilled in taking products from **concept → design → development → launch → growth**  
-- 🧑‍🤝‍🧑 Recognized as a **hands-on leader** who bridges technology, business, and user needs  
+-  Master’s graduate specializing in **design, development, and technology management**  
+-  Founder of **[CTC EdTech](https://www.ctcedtech.com)** – helping universities modernize with AI-driven consulting & solutions  
+-  Creator of **document security applications** with encryption, watermarking, and tamper detection  
+-  Skilled in taking products from **concept → design → development → launch → growth**  
+-  Recognized as a **hands-on leader** who bridges technology, business, and user needs  
 
 ---
 
-## 🛠️ Skills & Tools  
+##  Skills & Tools  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
@@ -31,40 +31,40 @@ Welcome to my GitHub! I’m a **technology leader, full-stack developer, AI engi
 
 ---
 
-## 📂 Highlighted Projects  
+##  Highlighted Projects  
 
-- 🔐 **Secure PDF Application (Game Plan Mastery)**  
+-  **Secure PDF Application (Game Plan Mastery)**  
   Document protection with encryption, watermarking, tamper detection, and tracking.  
 
-- 🤖 **AI Student Support App (CTC EdTech)**  
+-  **AI Student Support App (CTC EdTech)**  
   Mobile platform with AI chatbot and secure cloud integrations for student services.  
 
-- 🎓 **University Portals & Dashboards**  
+-  **University Portals & Dashboards**  
   Custom solutions improving compliance, student engagement, and operational efficiency.  
 
-- 📩 **Automated Email Marketing System**  
+-  **Automated Email Marketing System**  
   Personalized campaigns with analytics, UTM tracking, and smart scheduling.  
 
 ---
 
-## 🌟 My Approach  
+##  My Approach  
 
 I combine **technical depth** with **strategic leadership**, ensuring every project is:  
-- ✅ Technically sound and scalable  
-- ✅ User-centric and accessible  
-- ✅ Secure by design  
-- ✅ Aligned with business goals  
+-  Technically sound and scalable  
+-  User-centric and accessible  
+-  Secure by design  
+-  Aligned with business goals  
 
 Whether I’m writing code, designing systems, or shaping a company vision, I strive to deliver technology that makes a difference.  
 
 ---
 
-## 🔗 Let’s Connect  
+##  Let’s Connect  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/maheswar-barrenkala)  
-- 📂 [GitHub](https://github.com/maheswarbarrenkala)  
-- ✉️ **maheswar.barrenkala@gmail.com**  
+-  [LinkedIn](https://www.linkedin.com/in/maheswar-barrenkala)  
+-  [GitHub](https://github.com/maheswarbarrenkala)  
+- ✉ **maheswar.barrenkala@gmail.com**  
 
 ---
 
-⭐️ *“I believe technology should not just solve problems, but also inspire progress and create opportunities.”*  
+ *“I believe technology should not just solve problems, but also inspire progress and create opportunities.”*  
