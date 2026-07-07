@@ -31,7 +31,44 @@ I am a **Software Engineer** focused on building **Generative AI applications, L
 
 My work connects **software engineering**, **Generative AI**, **front-end development**, **UX engineering**, **cloud platforms**, **automation**, and **product-focused execution**.
 
-I am currently targeting roles such as **Software Engineer**, **Front-End Engineer**, **Full-Stack Engineer**, **UX Engineer**, **AI Application Developer**, **Generative AI Developer**, **LLM Application Developer**, **Product Engineer**, and **UI Engineer**.
+I am currently targeting **Software Engineer**, **Front-End Engineer**, **Full-Stack Engineer**, **UX Engineer**, **AI Application Developer**, **Generative AI Developer**, **LLM Application Developer**, **Product Engineer**, and **UI Engineer** roles.
+
+---
+
+## Professional Positioning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Core Engineering Focus
+
+- Software engineering
+- Full-stack web applications
+- Front-end engineering
+- UX engineering
+- Product dashboards
+- Internal tools
+- Cloud-backed workflows
+- Technical documentation
+
+</td>
+<td width="50%" valign="top">
+
+### AI Product Focus
+
+- Generative AI applications
+- LLM workflow planning
+- Prompt engineering
+- Chatbot workflows
+- RAG-style knowledge-base concepts
+- AI-assisted automation
+- AI agent workflow concepts
+- Support and onboarding automation
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -39,7 +76,7 @@ I am currently targeting roles such as **Software Engineer**, **Front-End Engine
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Software Engineering
 
@@ -50,28 +87,10 @@ I am currently targeting roles such as **Software Engineer**, **Front-End Engine
 - Firebase-backed systems
 - Cloud-supported applications
 - Automation workflows
-- Technical documentation
 - Enterprise application development
 
 </td>
-<td width="50%">
-
-### AI Applications & LLM Workflows
-
-- Generative AI applications
-- LLM workflow planning
-- Prompt engineering
-- Chatbot workflows
-- RAG-style knowledge-base concepts
-- AI-assisted automation
-- AI agent workflow concepts
-- Support and onboarding automation
-- AI-enabled product workflows
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Front-End Engineering
 
@@ -83,10 +102,25 @@ I am currently targeting roles such as **Software Engineer**, **Front-End Engine
 - Component-based UI
 - Accessibility-focused design
 - WCAG-aware development
-- Performance-aware UI development
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI Applications & LLM Workflows
+
+- Generative AI applications
+- LLM workflow planning
+- Prompt engineering
+- Chatbot workflows
+- RAG-style knowledge-base concepts
+- AI-assisted automation
+- AI-enabled product workflows
+- Knowledge-base support concepts
+
+</td>
+<td width="50%" valign="top">
 
 ### UX Engineering
 
@@ -98,7 +132,6 @@ I am currently targeting roles such as **Software Engineer**, **Front-End Engine
 - UX research
 - Journey mapping
 - Accessibility and usability
-- Product documentation
 
 </td>
 </tr>
@@ -116,7 +149,7 @@ I am currently targeting roles such as **Software Engineer**, **Front-End Engine
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
 </p>
 
-### Front-End & UI
+### Front-End & UI Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,angular,figma" />
@@ -140,7 +173,7 @@ I am currently targeting roles such as **Software Engineer**, **Front-End Engine
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square" />
   <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS%20Aurora-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Aurora-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Authentication%20Workflows-374151?style=flat-square" />
   <img src="https://img.shields.io/badge/Form%20Handling-4B5563?style=flat-square" />
   <img src="https://img.shields.io/badge/Dashboard%20Logic-1F2937?style=flat-square" />
@@ -210,21 +243,21 @@ I am currently targeting roles such as **Software Engineer**, **Front-End Engine
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### AI Application Engineering
 
 I work on AI-assisted product workflows, chatbot flows, prompt structures, RAG-style knowledge-base concepts, support automation, document workflows, and dashboard-based AI features.
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### Product-Focused Full-Stack
 
 I build and plan product systems, dashboards, form workflows, Firebase-backed features, internal tools, cloud-supported workflows, and SaaS-style user experiences.
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### UX-Focused Front-End
 
@@ -240,7 +273,7 @@ I design and develop responsive interfaces with attention to usability, accessib
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Inventory Management App
 
@@ -249,7 +282,7 @@ Mobile inventory workflow concept focused on item tracking, simplified operation
 **Tech / Skills:** Kotlin, Firebase concepts, mobile UX, inventory workflows
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Developer Portfolio Website
 
@@ -260,7 +293,7 @@ Responsive portfolio website presenting software engineering, AI, UX, and produc
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Python AI Projects
 
@@ -269,7 +302,7 @@ AI/ML notebook work covering applied model experiments, machine learning concept
 **Tech / Skills:** Python, Jupyter Notebook, AI/ML, NLP concepts
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### CTC EdTech Web Platform
 
@@ -280,7 +313,7 @@ Education-focused web platform and product workflow work involving responsive UI
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### AI Student Support Workflows
 
@@ -289,7 +322,7 @@ Chatbot and knowledge-base workflow concepts for student support, information ac
 **Tech / Skills:** Prompt engineering, chatbot flows, RAG-style concepts, AI workflow planning
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### SaaS Dashboard / MAP Concepts
 
@@ -307,7 +340,7 @@ SaaS dashboard workflow concepts for MarketIQ/SupplierIQ, admin flows, onboardin
 
 <table>
 <tr>
-<td width="34%">
+<td width="33%" valign="top">
 
 ### CTC EdTech
 
@@ -323,7 +356,7 @@ AI Applications & Product Systems
 - Product documentation
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### Game Plan Mastery
 
@@ -339,7 +372,7 @@ AI Applications & SaaS Product Systems
 - AI workflow concepts
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### Accenture
 
@@ -373,3 +406,93 @@ Firebase / API / Cloud Workflow
 AI, Automation, or Dashboard Layer
    ↓
 Testing, Documentation, and Iteration
+```
+
+---
+
+## GitHub Activity & Project Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### What to Review First
+
+- Pinned repositories
+- Project READMEs
+- Live demos where available
+- Screenshots and architecture notes
+- AI, front-end, full-stack, and UX-focused work
+
+</td>
+<td width="50%" valign="top">
+
+### Current GitHub Focus
+
+- Improving project documentation
+- Adding screenshots and demo links
+- Cleaning repository descriptions
+- Organizing AI/ML and full-stack projects
+- Building stronger recruiter-facing project pages
+
+</td>
+</tr>
+</table>
+
+---
+
+## Current Learning & Improvement Areas
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Engineering
+
+- Stronger React + TypeScript architecture
+- Full-stack project structure
+- Firebase and cloud-backed workflows
+- Dashboard and admin-system development
+- Cleaner setup documentation and README quality
+
+</td>
+<td width="50%" valign="top">
+
+### AI + Product
+
+- LLM application patterns
+- RAG-style support workflows
+- AI-assisted automation
+- Chatbot evaluation and support logic
+- UX patterns for AI-enabled products
+
+</td>
+</tr>
+</table>
+
+---
+
+## Contact
+
+<div align="center">
+
+**Open to Software Engineer, Front-End Engineer, Full-Stack Engineer, UX Engineer, AI Application Developer, Generative AI Developer, Product Engineer, and UI Engineer roles.**
+
+<br/>
+
+<a href="https://maheswarbarrenkala.github.io/portfolio-website/">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/maheswar-barrenkala/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:maheswar.barrenkala@gmail.com">
+  <img src="https://img.shields.io/badge/Email-maheswar.barrenkala%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:0A66C2&height=120&section=footer" />
+
+</div>
