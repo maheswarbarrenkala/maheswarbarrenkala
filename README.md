@@ -4,9 +4,6 @@
 
 <br/>
 
-<a href="https://maheswarbarrenkala.github.io/portfolio-website/">
-  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/maheswar-barrenkala/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -480,9 +477,6 @@ Testing, Documentation, and Iteration
 
 <br/>
 
-<a href="https://maheswarbarrenkala.github.io/portfolio-website/">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/maheswar-barrenkala/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
